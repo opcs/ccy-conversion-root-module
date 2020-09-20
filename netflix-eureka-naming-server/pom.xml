@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.ms</groupId>
 		<artifactId>ccy-conversion-root-module</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>netflix-eureka-naming-server</artifactId>
 	<name>netflix-eureka-naming-server</name>
